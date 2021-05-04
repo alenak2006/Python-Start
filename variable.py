@@ -10,3 +10,5 @@ print(type(a))
 a = True
 print(type(a))
 # dynamic type casting
+
+print(type(b))
