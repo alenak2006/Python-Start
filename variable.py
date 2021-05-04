@@ -12,3 +12,5 @@ print(type(a))
 # dynamic type casting
 
 print(type(b))
+
+# more notes
