@@ -23,4 +23,8 @@ print(type(b))
 # add note to new br 2
 # added note on auth
 
+<<<<<<< HEAD
 # added note on master branch should be before dev
+=======
+# update to dev branch
+>>>>>>> dev
