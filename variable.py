@@ -12,7 +12,7 @@ print(type(a))
 # dynamic type casting
 
 print(type(b))
-
+p= 123  
 # more notes
 # my third note
 # note v2
