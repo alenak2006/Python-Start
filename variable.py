@@ -12,7 +12,7 @@ print(type(a))
 # dynamic type casting
 
 print(type(b))
-p= 123  
+p = 123
 # more notes
 # my third note
 # note v2
@@ -23,8 +23,5 @@ p= 123
 # add note to new br 2
 # added note on auth
 
-<<<<<<< HEAD
 # added note on master branch should be before dev
-=======
 # update to dev branch
->>>>>>> dev
