@@ -99,7 +99,31 @@ def main():
     print("Game over!")
 
 
-main()
-
 if __name__ == "__main__":
+    # main()
     pass
+
+
+def test(leg1: float, leg2: float) -> float:
+    # assert 2 + 2 == 5
+    return (leg1 ** 2 + leg2 ** 2)**0.5
+
+
+print(test(2, 2))
+print("3")
+
+
+def greet(greeting: str, name: str) -> str:
+    """This function does nothing
+
+    Args:
+        greeting (str): your prefered greeting
+        name (str): name of the caller
+
+    Returns:
+        str: desired greeting
+    """
+    return f'{greeting} , my hero {name}'
+
+
+greet()

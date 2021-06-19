@@ -1,3 +1,17 @@
 {
-  "editor.tabCompletion": "on"
+  "editor.tabCompletion": "on",
+  "python.testing.pytestArgs": [
+    "pytest"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./pytest",
+    "-p",
+    "test*.py"
+  ],
+  "python.pythonPath": "venv\\Scripts\\python.exe"
 }
