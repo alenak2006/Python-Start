@@ -347,3 +347,7 @@ print(sl.indices(len(s)))
 
 for i in range(*sl.indices(len(s))):
     print(s[i], i)
+
+"""
+1.12. Determining the Most Frequently Occurring Items in a Sequence
+"""
